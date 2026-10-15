@@ -1,0 +1,43 @@
+[data-bs-theme=dark] {
+  --bs-body-bg: #0d1217;
+  --bs-body-bg-rgb: 13,18,23;
+  --bs-link-decoration: none;
+  --bs-link-hover-decoration: blink;
+}
+
+a {
+  text-decoration: var(--bs-link-decoration);
+}
+
+a:hover {
+  text-decoration: var(--bs-link-hover-decoration);
+}
+
+.mt-0 {
+  margin-top: 0!important;
+}
+
+.mt-1 {
+  margin-top: .25rem!important;
+}
+
+.mt-8 {
+  margin-top: 7.5rem !important;
+}
+
+.mb-0 {
+  margin-bottom: 0!important;
+}
+
+.mb-2 {
+  margin-bottom: .5rem!important;
+}
+
+.pt-0 {
+  padding-top: 0!important;
+}
+
+.pt-10 {
+  padding-top: 10.5rem !important;
+}
+
