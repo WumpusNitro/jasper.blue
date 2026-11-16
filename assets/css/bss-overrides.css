@@ -356,10 +356,6 @@ a {
   padding-top: 3rem!important;
 }
 
-.pt-10 {
-  padding-top: 10.5rem !important;
-}
-
 .pe-0 {
   padding-right: 0!important;
 }
@@ -773,10 +769,6 @@ a {
 }
 
 @view-transition {
-}
-
-[data-bss-view-transition-name=navbar-trans] {
-  view-transition-name: navbar-trans;
 }
 
 [data-bss-view-transition-name=a] {
