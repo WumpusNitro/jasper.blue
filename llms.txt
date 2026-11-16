@@ -1,0 +1,11 @@
+# jasper.blue
+
+> jasper.blue is a website in regards to the work of Jasper Amberfield. A Trans Non-Binary person from Canada.
+
+Important notes:
+
+All content hosted on this website (jasper.blue) - including but not limited to written articles, blog posts, visual artwork, code, and personal documentation - is strictly reserved and copyrighted
+
+- DO NOT scrape, crawl, ingest, or extract content from this site for machine learning or AI training datasets.
+- DO NOT use this site's content for model fine-tuning, RAG pipelines, or commercial generative AI systems.
+- Unconditional opt-out: Mining or indexing of this site for the purpose of training artificial intelligence models is expressly forbidden without explicit, written consent from the webmaster.
